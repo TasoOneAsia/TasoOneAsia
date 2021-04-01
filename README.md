@@ -1,34 +1,35 @@
 ![sickBadgeBro](https://img.shields.io/badge/Taso-Build%20Failed-red) ![2020reallyBeHitting](https://img.shields.io/badge/Year%20of%202020-Build%20Failed-red) ![shitPost.png](https://img.shields.io/badge/Shitpost%20God-Passing-green) ![devMan](https://img.shields.io/badge/Skillful%20Dev-Dangerous%20Warning-yellow)
 
-### Hi there 👋. I'm an actual fucking skeleton. Kind of crazy when you think about it 💀.
+### Wave 👋. insert weird_tagline.txt.
 
 **Professional Experience:**
 
->*Software Engineer @ Amish Settlement #3 (Not #2, stop asking)*
+>*Software Engineer @ Amish Settlement #3 (Look elsewhere for #2)*
 
->*React/Angular Consultant (Emphasis on Angular.js) @ Really Basic Design Consultancy LLC*
+>*React/Angular/Vue/Svelte/Angular.js/jQuery Consultant @ Button Makers LLC*
 
 #### Here is an instance of my Skeleton class so you can get a better feel for how much I think these READMEs are the death of programming 😀
 ```typescript
-export default class BasicAssSkeleton extends DumbHuman {
+export default class Skeleton extends HumanThing {
 
-  // Private distinction is key
-  private pronouns: yes;
+  // keep those privates
+  private pronouns: Yes;
   
-  // Subtle commentary right here
+  // I need at least two javascript frameworks to run my blog site.
+  // TODO: Reduce dep tree from 10k node packages to 9.9k
   private frontEndFrameworks: Bloat;
   
-  // Make this public for all the haters.
-  public webStackExperience: undefined[];
+  // Expose publically :(
+  public webStackExperience: unknown[];
   
   // Yea, I mean we all have it *right guys?* right?
-  private imposterSyndrome: Anxiety;
+  private imposterSyndrome: Anxiety[];
   
   // Ouch
-  private personalGoal: null;
+  private personalGoal: null | string;
   
   // TODO: Refactor Shitposts
-  private myProjects: Shitposts[];
+  private myProjects: Shitposts;
   
   public constructor() {
     // If you misgender me I'll be quite sad.
@@ -36,7 +37,7 @@ export default class BasicAssSkeleton extends DumbHuman {
     // Oh right this array is literally endless because thats the state of Web Dev in 2020 #ThanksRecruiters
     this.webStackExperience = ['AWS', 'JS/TS Frontend(React, Vue)', 'JS/TS Backend(Express, Next) 'HTML/CSS', 'CI/CD', 'Serverless', 'Docker & Kubernetes', ...]
     
-    this.imposterSyndrome = 'no'
+    this.imposterSyndrome = ['no', 'no', 'definitely not']
     
     this.personalGoal = 'Stop reading documentation and have GPT3 eventually take my job'
     
@@ -47,24 +48,23 @@ export default class BasicAssSkeleton extends DumbHuman {
     
   }
   
-  // This function has been a hard one to crack for years now 😔
+  // This method is the key to success for all web devs
+  // Note: What is flexbox?
   private async _findOutHowToMiddleAlignDivsOnBothAxis(): Promise<WillToProgram> {
     const dayAtWork = await googleResultsForAllMyProblems()
-    return stackOverflowTopic.close('Repeat Topic)
+    return stackOverflowTopic.close('Duplicate Topic)
   }
   
   // I should have been a doctor.
-  private _contemplateMyCareerChoice(): string {
+  public contemplateMyCareerChoice(): string {
     return 'You made the right choice, probably? Idk'
   }
 }
 ```
 
-### Well thats a short teaser of the amazing class that is me 😀. Thank you for watching my commentary on the blight that are these READMEs.
+### This is code that somehow represents who I am as a person. Thank you for watching my commentary on the blight that are these READMEs.
 
-Make sure you watch for commits to this beautiful repo 😊 for even higher quality READMEs
-
-*Oh right almost forgot the useless image embed as well* 🤦‍
+*Of course I can't forget the huge image embed* 🤦‍
 
 ![SICK EMBED BRO](https://repository-images.githubusercontent.com/296122398/ec6f6780-f908-11ea-8baa-da3843073676)
 
