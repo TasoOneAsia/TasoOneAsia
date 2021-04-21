@@ -35,7 +35,7 @@ export default class Skeleton extends HumanThing {
     // If you misgender me I'll be quite sad.
     this.pronouns = ['Skeleton', 'Skellington', 'Uncle Fred', 'Jerome Powell']
     // Oh right this array is literally endless because thats the state of Web Dev in 2020 #ThanksRecruiters
-    this.webStackExperience = ['AWS', 'JS/TS Frontend(React, Vue)', 'JS/TS Backend(Express, Next) 'HTML/CSS', 'CI/CD', 'Serverless', 'Docker & Kubernetes', ...]
+    this.webStackExperience = ['AWS', 'JS/TS Frontend(React, Vue)', 'JS/TS Backend(Express, Next)', 'HTML/CSS', 'CI/CD', 'Serverless', 'Docker & Kubernetes', ...]
     
     this.imposterSyndrome = ['no', 'no', 'definitely not']
     
