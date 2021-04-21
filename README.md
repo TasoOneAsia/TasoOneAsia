@@ -52,7 +52,7 @@ export default class Skeleton extends HumanThing {
   // Note: What is flexbox?
   private async _findOutHowToMiddleAlignDivsOnBothAxis(): Promise<WillToProgram> {
     const dayAtWork = await googleResultsForAllMyProblems()
-    return stackOverflowTopic.close('Duplicate Topic)
+    return stackOverflowTopic.close('Duplicate Topic')
   }
   
   // I should have been a doctor.
