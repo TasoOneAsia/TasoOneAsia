@@ -1,70 +1,56 @@
-![sickBadgeBro](https://img.shields.io/badge/Taso-Build%20Failed-red) ![2020reallyBeHitting](https://img.shields.io/badge/Year%20of%202020-Build%20Failed-red) ![shitPost.png](https://img.shields.io/badge/Shitpost%20God-Passing-green) ![devMan](https://img.shields.io/badge/Skillful%20Dev-Dangerous%20Warning-yellow)
+![sickBadgeBro](https://img.shields.io/badge/Experience%20(Node)-25%20years-blue) ![bloat.png](https://img.shields.io/badge/Bloat-High-red) ![devMan](https://img.shields.io/badge/Applicable%20Skills-None-yellow)
 
-### Wave 👋. insert weird_tagline.txt.
+### Wave 👋. insert {{ apparently_quirky_tagline }}
 
-**Professional Experience:**
+I develop things. Some say well, others say my brain retains a smoothness like no other. You can find me maintaining 8000 open source projects across 15 countries.
 
->*Software Engineer @ Amish Settlement #3 (Look elsewhere for #2)*
+![Taso's flex](https://github-readme-stats.vercel.app/api?username=TasoOneAsia&count_private=true&theme=tokyonight&show_owner&custom_title=Tasos%20Meme%20Stats)
 
->*React/Angular/Vue/Svelte/Angular.js/jQuery Consultant @ Button Makers LLC*
+### The Beauty of C++
 
-#### Here is an instance of my Skeleton class so you can get a better feel for how much I think these READMEs are the death of programming 😀
-```typescript
-export default class Skeleton extends HumanThing {
+**oh_no.hpp**
+```cpp
+#define 🔚 std::endl  
+#define ❕ ;  
+#define ▶ (  
+#define ◀ )  
+#define ⤵ {  
+#define ⤴ }  
+#define 🤍 main  
+#define 1️⃣5️⃣ 15  
+#define 3️⃣ 3  
+#define 5️⃣ 5  
+#define 0️⃣ 0  
+#define 🔟 255  
+#define ➗ %  
+#define ❤ =
+#define ⬅ <
+#define ⏸ == 0
+```
+**main.cpp**
+```cpp
+#include "oh_no.hpp"
+#include <iostream>
 
-  // keep those privates
-  private pronouns: Yes;
-  
-  // I need at least two javascript frameworks to run my blog site.
-  // TODO: Reduce dep tree from 10k node packages to 9.9k
-  private frontEndFrameworks: Bloat;
-  
-  // Expose publically :(
-  public webStackExperience: unknown[];
-  
-  // Yea, I mean we all have it *right guys?* right?
-  private imposterSyndrome: Anxiety[];
-  
-  // Ouch
-  private personalGoal: null | string;
-  
-  // TODO: Refactor Shitposts
-  private myProjects: Shitposts;
-  
-  public constructor() {
-    // If you misgender me I'll be quite sad.
-    this.pronouns = ['Skeleton', 'Skellington', 'Uncle Fred', 'Jerome Powell']
-    // Oh right this array is literally endless because thats the state of Web Dev in 2020 #ThanksRecruiters
-    this.webStackExperience = ['AWS', 'JS/TS Frontend(React, Vue)', 'JS/TS Backend(Express, Next)', 'HTML/CSS', 'CI/CD', 'Serverless', 'Docker & Kubernetes', ...]
-    
-    this.imposterSyndrome = ['no', 'no', 'definitely not']
-    
-    this.personalGoal = 'Stop reading documentation and have GPT3 eventually take my job'
-    
-    this.myProjects = new Shitposts()
-    
-    // Like seriously? Why do people put this on their profile.
-    this.myArchitecture = new RandomBuzzWords()
-    
-  }
-  
-  // This method is the key to success for all web devs
-  // Note: What is flexbox?
-  private async _findOutHowToMiddleAlignDivsOnBothAxis(): Promise<WillToProgram> {
-    const dayAtWork = await googleResultsForAllMyProblems()
-    return stackOverflowTopic.close('Duplicate Topic')
-  }
-  
-  // I should have been a doctor.
-  public contemplateMyCareerChoice(): string {
-    return 'You made the right choice, probably? Idk'
-  }
-}
+🔢 🤍▶◀
+⤵
+    🔢 😑 ❤ 0️⃣❕
+    🔄 ▶😑 ⬅ 🔟◀
+    ⤵
+        🤔 ▶😑 ➗ 1️⃣5️⃣ ⏸◀
+            📢 👈 "FizzBuzz" 👈 🔚❕
+        🤷‍♂️ 🤔 ▶😑 ➗ 3️⃣ ⏸◀
+            📢 👈 "Fizz" 👈 🔚❕
+        🤷‍♂️ 🤔 ▶😑 ➗ 5️⃣ ⏸◀
+            📢 👈 "Buzz" 👈 🔚❕
+        🤷‍♂️
+            📢 👈 😑 👈 🔚❕
+        😑🔼❕
+    ⤴
+⤴
 ```
 
-### This is code that somehow represents who I am as a person. Thank you for watching my commentary on the blight that are these READMEs.
 
-*Of course I can't forget the huge image embed* 🤦‍
 
-![SICK EMBED BRO](https://repository-images.githubusercontent.com/296122398/ec6f6780-f908-11ea-8baa-da3843073676)
+
 
