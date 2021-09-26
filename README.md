@@ -4,7 +4,13 @@
 
 I develop things. Some say well, others say my brain retains a smoothness like no other. You can find me maintaining 8000 open source projects across 15 countries.
 
+<div align="center">
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TasoOneAsia&theme=tokyonight&layout=compact)
+    
 ![Taso's flex](https://github-readme-stats.vercel.app/api?username=TasoOneAsia&count_private=true&theme=tokyonight&show_owner&custom_title=Tasos%20Meme%20Stats)
+    
+</div>
 
 ### The Beauty of C++
 
@@ -32,6 +38,7 @@ I develop things. Some say well, others say my brain retains a smoothness like n
 #include "oh_no.hpp"
 #include <iostream>
 
+// perfection
 🔢 🤍▶◀
 ⤵
     🔢 😑 ❤ 0️⃣❕
@@ -49,6 +56,7 @@ I develop things. Some say well, others say my brain retains a smoothness like n
     ⤴
 ⤴
 ```
+
 
 
 
