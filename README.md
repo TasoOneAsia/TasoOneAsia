@@ -1,12 +1,16 @@
-### Wave 👋. insert {{ apparently_quirky_tagline }}
+<div align="center">
 
-I develop things. You can find me maintaining 8000 open source projects across 15 countries.
+![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/15652018?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d)
+
+
+### Wave 👋. insert {{ apparently_quirky_tagline }}
+    
+</div>
 
 <div align="center">
-    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TasoOneAsia&theme=tokyonight&layout=compact)
-    
-![Taso's flex](https://github-readme-stats.vercel.app/api?username=TasoOneAsia&count_private=true&theme=tokyonight&show_owner&custom_title=Tasos%20Stats)
+
+
+_Allegedly develops things_    
     
 </div>
 
