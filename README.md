@@ -1,17 +1,22 @@
 <div align="center">
 
-![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/15652018?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d)
-
-
 ### Wave 👋. insert {{ apparently_quirky_tagline }}
-    
+
+![avatar](https://i.imgur.com/Drcwnps.png)
+
+### Taso
+
 </div>
 
 <div align="center">
 
 
 _Allegedly develops things_    
-    
+
+
+![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=TasoOneAsia)
+
+
 </div>
 
 ### The Beauty of C++
@@ -58,9 +63,3 @@ _Allegedly develops things_
     ⤴
 ⤴
 ```
-
-
-
-
-
-
