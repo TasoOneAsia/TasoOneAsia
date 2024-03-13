@@ -13,13 +13,13 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-    - uses: lowlighter/metrics@v3.9
+    - uses: lowlighter/metrics@latest
       with:
         filename: profile.metrics.svg
+        token: ${{ secrets.GH_METRICS_TOKEN }}
         user: TasoOneAsia
         template: classic
         base: header, activity, community, repositories, metadata
-        base_indepth: yes
         config_display: columns
         config_timezone: America/New_York
         plugin_activity: yes
