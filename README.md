@@ -1,1 +1,1 @@
-![profile metrics](./profile.metrics.svg)
+<img src="/profile.metrics.svg" alt="Profile Metrics" width="100%">
