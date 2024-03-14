@@ -23,7 +23,7 @@ jobs:
         user: TasoOneAsia
         template: classic
         base: header, activity, community, repositories, metadata
-        config_display: columns
+        config_display: large
         config_timezone: America/New_York
         plugin_activity: yes
         plugin_activity_days: 30
@@ -46,7 +46,9 @@ jobs:
         plugin_languages_sections: most-used
         plugin_languages_threshold: 0%
         plugin_notable: yes
+        plugin_notable_filter: stars:>200
         plugin_notable_from: organization
+        plugin_notable_repositories: yes
         plugin_notable_types: commit
         repositories_forks: yes
 
