@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1782" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1866" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.repository,footer{display:flex;flex-direction:column}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.warning{color:#d79533}.field.warning svg,.footnote.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.footnote{width:100%;justify-content:flex-end;font-size:12px}.footnote.warning{color:#d79533}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -35,8 +35,8 @@
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            5948 Commits
+                            5435 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2237,6 +2237,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2250,6 +2255,199 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 55 commits in
+                                        <span class="repo">nginx/documentation</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">init-dot-org</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0ce49b8</div>
+                                        <div class="message">feat: Update NGF compatibility doc (#214)
+
+Some fields were missing from the NGF compatibility doc, so adding those.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#09aafc1</div>
+                                        <div class="message">remove staged config endpoints (#216)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#88c2a42</div>
+                                        <div class="message">docs: add agent 2.40 changelog (#212)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#23e2065</div>
+                                        <div class="message">Remove n4a sitemap (#213)
+
+Co-authored-by: Alan Dooley &lt;a.dooley@f5.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#90730e2</div>
+                                        <div class="message">fix: correcting the SCC link for OpenShift (#211)
+
+* fix: correcting the SCC link
+
+* fix: added a note for OpenShift version</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#db477e3</div>
+                                        <div class="message">fix: updated the k8s documentation for NIM v2.19.0 release (#208)
+
+* fix: updated the k8s documentation for NIM v2.19.0 release
+
+* fix: addressed review comments
+
+* fix: addressed review comments
+
+* Apply suggestions from code review
+
+---------
+
+Co-authored-by: Mike Jang &lt;3287976+mjang@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5d129b1</div>
+                                        <div class="message">feat: Add shortcode for the latest version of NGINX Gateway Fabric (#203)
+
+This commit adds a new shortcode to the layouts folder to store a string
+representing the latest version of NGINX Gateway Fabric. This means that
+instead of updating each file individually during a new release, only
+the shortcode file needs to be modified.
+
+It clarifies the versioning for documentation, which makes it easier to
+review - and also reduces the amount of drift when updating, in the case
+that a reference was overlooked. There may be old references that need
+to be updated to use this shortcode.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c48ed30</div>
+                                        <div class="message">fix: Add a missing mount in the NAP 5 deployment file (#206)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd8fe65</div>
+                                        <div class="message">fix: updating tech specs table for NIM to support ubuntu24 (#204)
+
+* fix: updating tech specs table for NIM to support ubuntu24
+
+* fix: addressed review comments</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#60bdf35</div>
+                                        <div class="message">feat: Revise AWS HA document for readability (#75) (#176)
+
+- Style guide conformance
+- Information architecture consistency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#043d614</div>
+                                        <div class="message">feat: Re-order checklist, add conventional commits, re-phrase items
+
+This commit re-orders and re-phrases certain items in the checklist to
+group them logically and make the formatting more consistent. It also
+adds a footnote to the message about potentially sensitive data.
+
+The note about potentially sensitive data now has unique phrasing for
+the start of the sentence: we could potentially bold it if it needed
+even more superliminal attention.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#507d039</div>
+                                        <div class="message">fix: Update pull request template references to README &amp; CHANGELOG
+
+This commit fixes the checklist item about the README and CHANGELOG
+files: in-context, there was a missing parenthesis. The line has been
+rephrased to match the lines before it.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#874735f</div>
+                                        <div class="message">fix: fix style in latest n4a changelog entry (#202)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8f8e775</div>
+                                        <div class="message">docs: move 2024 NGINXaaS news to the archive folder (#201)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4d1cbe3</div>
+                                        <div class="message">fix: Fix "manage" typo in NGF documentation for Certificate Manager (#200)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#39c847a</div>
+                                        <div class="message">Use full path for cost calculator imports temporarily (#198)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#df669b9</div>
+                                        <div class="message">fix: update css js path for n4a cost calculator (#197)
+
+* fix: update css js path for n4a cost calculator
+
+* fix: fix path</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1e20450</div>
+                                        <div class="message">feat: Add control plane, data plane, and load balancer updates to style guide terminology</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8382b32</div>
+                                        <div class="message">docs: transfer N4A docs (#196)
+
+* docs: transfer N4A docs
+
+* docs: add url meta
+
+* docs: convert markdown images to shortcode images
+
+---------
+
+Co-authored-by: Alan Dooley &lt;a.dooley@f5.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#85c65cd</div>
+                                        <div class="message">feat: Update EC2 Instances for NGINX page (#184)
+
+* Update EC2 Instances for NGINX page
+* Delete unused images; update lists
+* Fixed metadata to match default archetype
+* Apply suggestions from code review
+
+Co-authored-by: Travis Martin &lt;33876974+travisamartin@users.noreply.github.com&gt;
+Co-authored-by: Alan Dooley &lt;a.dooley@f5.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">nginx/documentation</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">init-dot-org</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6bd0274</div>
+                                        <div class="message">content(about): define about page content
+
+timeline shortcode still needs impl.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#38db72b</div>
+                                        <div class="message">feat: handle for "info", "warning", and "critical" banner variants</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -2394,178 +2592,12 @@ It's intended mostly for internal use.</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">0xJacky/nginx-ui</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 18 commits in
-                                        <span class="repo">nginx/documentation</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">init-dot-org</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0322c44</div>
-                                        <div class="message">misc cleanup</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9e7789d</div>
-                                        <div class="message">dot-org init commit
-
-transfer already completed work into new repo</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#624d369</div>
-                                        <div class="message">Initial dot-org hugo site</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#be7acf7</div>
-                                        <div class="message">Unpublish NMS docs (#189)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9e1b636</div>
-                                        <div class="message">Unpublished docs for Controller, Service Mesh, NMS (#188)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7068b3b</div>
-                                        <div class="message">feat: Update NAP Brute force documentation (#185)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3dbf7d3</div>
-                                        <div class="message">feat: Migrate Hugo archtypes (#179)
-
-This commit moves the Hugo archetypes from the theme repository to the
-newly open source documentation repository. This is part of ongoing efforts
-around improving our style guide and simplifying the contribution process.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d2d2cd3</div>
-                                        <div class="message">feat: Add IDs to NAP 4.12 &amp; 5.4 release notes (#186)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#23f8d53</div>
-                                        <div class="message">build(deps): bump github/codeql-action from 3.28.8 to 3.28.9 (#177)
-
-Bumps [github/codeql-action](https://github.com/github/codeql-action) from 3.28.8 to 3.28.9.
-- [Release notes](https://github.com/github/codeql-action/releases)
-- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/github/codeql-action/compare/dd746615b3b9d728a6a37ca2045b68ca76d4841a...9e8d0789d4a0fa9ceb6b1738f7e269594bdd67f0)
-
----
-updated-dependencies:
-- dependency-name: github/codeql-action
-  dependency-type: direct:production
-  update-type: version-update:semver-patch</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1c6176c</div>
-                                        <div class="message">feat: Brute force doc fixes (#181)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#96d8185</div>
-                                        <div class="message">Remove agent from sitemap index (#180)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c96d0d3</div>
-                                        <div class="message">docs: add agent content to the repo (#178)
-
-* docs: add agent content to the repo
-
-* docs: fix images</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f79270b</div>
-                                        <div class="message">fix: fixing issues found in 2.19.0 testing (#174)
-
-* fix: fixing issues found in 2.19.0 testing
-
-* fix: fixing review comments</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0cb7e6f</div>
-                                        <div class="message">improve readability and grammar (#157)
-
-* improved readability and grammatical errors
-
-* Apply suggestions from code review
-
-Mostly based on the NGINX style guide
-
----------
-
-Co-authored-by: Mike Jang &lt;3287976+mjang@users.noreply.github.com&gt;
-Co-authored-by: Alan Dooley &lt;a.dooley@f5.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#82c682e</div>
-                                        <div class="message">Updated guide to use NGINX/NGINX Plus as the Ingress Controller in EKS (#159)
-
-* Updated guide to use NGINX/NGINX Plus as the Ingress Controller in EKS
-
-* Additional edits to improve readability
-
-* Apply suggestions from code review
-
-Co-authored-by: Alan Dooley &lt;github@adubhlaoi.ch&gt;
-
-* Update content/nginx/deployment-guides/amazon-web-services/ingress-controller-elastic-kubernetes-services.md
-
-* Apply suggestions from code review
-
-Co-authored-by: yar &lt;y82@users.noreply.github.com&gt;
-
-* Fix typo
-
-Co-authored-by: yar &lt;y82@users.noreply.github.com&gt;
-
----------
-
-Co-authored-by: Mike Jang &lt;3287976+mjang@users.noreply.github.com&gt;
-Co-authored-by: Alan Dooley &lt;a.dooley@f5.com&gt;
-Co-authored-by: Alan Dooley &lt;github@adubhlaoi.ch&gt;
-Co-authored-by: yar &lt;y82@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d3e5ce</div>
-                                        <div class="message">Release NGF 1.6.1 (#172)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c2fe3a1</div>
-                                        <div class="message">docs: NIM 2.19.0 release documentation (#170)
-
-Co-authored-by: Mike Jang &lt;3287976+mjang@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#36ee197</div>
-                                        <div class="message">fix: updating script to track offline installations (#168)
-
-Co-authored-by: Mike Jang &lt;3287976+mjang@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Mar 2025, 19:11:52 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Mar 2025, 19:11:56 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
